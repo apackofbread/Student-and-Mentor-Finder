@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">LoginModule</string>
+    <string name="welcome">Welcome</string>
+    <string name="log_out">Log Out</string>
+    <string name="password">Password</string>
+    <string name="e_mail_id">E-mail ID</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="welcome_to_study_mate_and_mentor_finder_app">Welcome to Study Mate and Mentor Finder App</string>
+    <string name="btnContinue">Continue</string>
+    <string name="title_activity_bio_details">BioDetails</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="age" />
+    <string name="bio" />
+    <string name="Interests" />
+    <string name="wya">Whats your Age?</string>
+    <string name="Int">Interests</string>
+    <string name="b">bio</string>
+    <string name="a">age</string>
+    <string name="hey">hey</string>
+</resources>
